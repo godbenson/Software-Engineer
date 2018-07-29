@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Composite.cpp
+e:\projects\visualstudio2015\composite\composite\composite.cpp(72): warning C4018: “>”: 有符号/无符号不匹配
+  正在生成代码...
+  Composite.vcxproj -> E:\projects\VisualStudio2015\Composite\Debug\Composite.exe
+  Composite.vcxproj -> E:\projects\VisualStudio2015\Composite\Debug\Composite.pdb (Full PDB)
